@@ -3,6 +3,7 @@
 
 let obj1 = { name:"Person 1" , age:5 }
 let obj2 = { age:5 , name:"Person 1" }
+
 [compare two JSON have same properties without order](https://github.com/GunaManivel/Day-3-Task/blob/main/compare.js)
 
 **2.Use the [rest countries API URL](https://restcountries.com/v3.1/all) and display all the country flags in the console**
