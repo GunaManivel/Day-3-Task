@@ -10,6 +10,6 @@ let obj2 = { age:5 , name:"Person 1" }
 
 [flags](https://github.com/GunaManivel/Day-3-Task/tree/main/Flags)
 
-**3.2.Use the [rest countries API URL](https://restcountries.com/v3.1/all) and display all countries names,regions,sub-regionan populations**
+**3.Use the [rest countries API URL](https://restcountries.com/v3.1/all) and display all countries names,regions,sub-regionan populations**
 
 [countries](https://github.com/GunaManivel/Day-3-Task/tree/main/countries)
